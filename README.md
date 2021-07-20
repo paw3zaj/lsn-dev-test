@@ -1,6 +1,4 @@
-# DEV-TEST
-The input of the tasks don't have validation - more time is needed.
-
-## Task1, Task2
- - Divide entered numbers with `space`.
- - Button `Enter` execute the task.
+# Task1 and Task2
+All positive numbers entered at the input should be separated with the `Space` key.
+All kinds of non-positive characters will be converted to 0.
+The `Enter` button completes the task.
